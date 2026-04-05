@@ -20,7 +20,7 @@ Este proyecto desarrolla una infraestructura virtual con hipervisores, servicios
 
 | Archivo | Descripción |
 |---|---|
-| [informe-investigacion.md](informe-investigacion.md) | Documento de investigación con el marco teórico, análisis conceptual, comparación de hipervisores, modos de red, desarrollo del proyecto y conclusiones generales. |
+| [informe-investigacion.md](informe-investigacion.md) | Documento de investigación con el marco teórico, análisis conceptual, comparación de hipervisores, modos de red, desarrollo del proyecto. |
 | [informe-tecnico.md](informe-tecnico.md) | Espacio reservado para el documento técnico de implementación, con el paso a paso de la configuración, evidencias, resultados y análisis práctico. |
 
 ---
